@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from a gentleman in the country to his friend in the city</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48002</idno><idno type="EEBO-CITATION">27370760</idno>
+  <idno type="VID">110087</idno>
+  <idno type="EEBO-PROQUEST">2240874987</idno>
+  
+            <idno type="STC">Wing L1393C</idno>
+            <idno type="STC">ESTC R231003</idno>
+            <idno type="OCLC">27370760</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110087)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1725:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from a gentleman in the country to his friend in the city</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>"My Dear Friend, The Miscarriage of Sham-plots in the escape of my L. S. we perceive is now to be revenged ..."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Establishment and disestablishment.</term>
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+               <term type="topical_term">Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:110087:1"/>
+            <head>A LETTER from a GENTLEMAN in the Country to his FRIEND in the CITY.</head>
+            <opener>
+               <salute>My Dear Friend,</salute>
+            </opener>
+            <p>THe Miscarriage of Sham-plots in the escape of my L. S. we perceive is now to be revenged on the F. party, for Orders it is said are issued out for their prosecution with you in <hi>London,</hi> and our Tools are all a whetting for the same work here. The Antients were wont to say, <hi>Quandoque delirunt Reges, plectun<g ref="char:EOLhyphen"/>tur Achivi,</hi> and the Fs. are still sure to be the <hi>Achivi</hi> here, upon whom we see every <hi>Delirium</hi> of the Government must be put. But for Gods sake, my Friend, was it the F. that put the Government upon trying the E. of S. upon such Evi<g ref="char:EOLhyphen"/>dence that a man could hardly have salved his Conscience, to have hanged a Cat on theit Testimony? Or were they Fs. that were of the Jury? Nay you see they have gotten a trick to except against, and suffer no Fs. to be in such Jurys; but how Legal such exceptions are, let them take care to justifie that are con<g ref="char:EOLhyphen"/>cerned in them. In the mean while, since the Fs. have no hand therein; how comes it to be charged so solely, or indeed at all upon their Accounts?</p>
+            <p>Why the Fs. rejoyced at his deliverance, 'tis true they did, and so did every honest, true and hearty Protestant in <hi>England</hi> as it was their Duty to do. For they rejoyced, not only that my L. of S. was delivered, but that the whole Pro<g ref="char:EOLhyphen"/>testant cause and interest was delivered with him. So that had my L. of S. been but <hi>Colledged,</hi> the joy of the other Party had been the same, and in this re<g ref="char:EOLhyphen"/>spect, the deliverance of the Protestant Party was so great, and every way wor<g ref="char:EOLhyphen"/>thy that rejoycing, which was expressed thereat, that I do believe in my Con<g ref="char:EOLhyphen"/>science, that if they had not more <hi>Seraphick</hi> ways of shewing their Joyes in Heaven than we on Earth, the Saints and Martyrs in Glory would have made all Heaven rang with that Days Joy.</p>
+            <p>But it seems the poor Fs. must do Penance for it, and that their Joy at the burning of the Pope, and my L. of S. deliverance must be expiated by a fresh persecution on them. Well, what cannot be hopen must be abiden, and I hope will be to, with such a Christian peaceable and becoming carriage, as will quite spoil their design, who would fain force them by their Oppressions to make a Disturbance. But if this be the way to get a Tory P. as some, who have the Art of looking into a Milstone do judge, is one meaning in this new run on the Fs. I confess I am utterly out in my Methods of thinking. For if I understand the Fs. aright, they are a People much easilyer to be led (and I was about to say be milled too) than driven, a large, if not a too large experience, whereof you had in the choice of your present Lord Mayor.</p>
+            <p>Ay, but we must not call the punishing Fs. a persecution, for they are re<g ref="char:EOLhyphen"/>bellious forsooth, and suffer but by lawful Magistrates, and but such punishment as the Law appoints. No more did the Martyrs in Q. <hi>Marys</hi> Days, wherefore if these be Rebels so were they, for they could not conform to those Laws of Worship, that the Magistrate commanded then, no more can these now. Nay our blessed Saviour, and his holy Apostles suffered by Laws and Magistrates also; and yet I do not think that any good Christian, reckons them rebellious against the Laws or Magistrates either.</p>
+            <p>Our Fopps indeed keep a huge coyl for their Religion establisht by Law, as if we had no other fund for our Religion than Statute Law, or that the Verity thereof depended upon humane Sanction; whereas I hope there is no rational man thinks that the Christian Religion was worse in the Apostles days, and in the Primitive time, when it had no National Laws to support it, than it is now: And therefore, if we will take our Religion from off the Authority of the Gos<g ref="char:EOLhyphen"/>pel, and found it only upon the Authority of humane Laws, we shall be too like that Fool in the Gospel that left the Rock, and laid his Foundation in the Sand.</p>
+            <p>For if we make the only Test of our Profession to be the Municipal Laws of the Land, Popery will have a far greater Vote for its Verity, than the Prote<g ref="char:EOLhyphen"/>stant
+<pb n="2" facs="tcp:110087:2"/>Religion. For who knows not that <hi>France, Spain, Germany, Portugal, Ita<g ref="char:EOLhyphen"/>ly,</hi> and many other Countrys have established Popery by the Laws of their Land: And yet I believe, no body thinks that Popery is any whit the better, because of that Establishment. Wherefore, if we had no other Testimony to support our Protestant Religion than the Laws of the Land, I doubt we soon shall be brought by the Lee.</p>
+            <p>Our spiritual Infantry, the lesser Fry of Clergy wiggle about merrily, wag their Tails, and are mightily pleased with the News of falling upon the Fana<g ref="char:EOLhyphen"/>ticks. But the middle sort of Clergy, who are generally the most moderate, seem troubled at it; for it is in Church as it is in State, when you are past <hi>Lords,</hi> and a few new made Sir <hi>Reverences,</hi> you must fall to <hi>Tapsters</hi> and <hi>Fidlers,</hi> for all betwixt those two extreams, God be thanked are on the other side, and would willingly enjoy peace and properties themselves, and as a means thereto are all for Moderation.</p>
+            <p>What success will attend this fresh attempt to disturb the Dissenters I cannot tell; but I can tell you what the Country say. They say these Bishops will ne<g ref="char:EOLhyphen"/>ver leave till they have brought the Kingdom into bloud and confusion again. And I should be of the same opinion, but that I observe, God Almighty hath ever yet, when they have been engaged in this work, thrown in something or other that has disturbed and took them off from their intentions, quite besides their expectation.</p>
+            <p>One of our Prelates discoursing D. <hi>Y.</hi> concerning the reason of his abanddo<g ref="char:EOLhyphen"/>ning our Church, was answered, that he liked not that Religion, where one Party persecutes another, and I'le assure you that the Fanaticks hope, that the same kind Providence will still appear on their behalf, and render this effort as in ef<g ref="char:EOLhyphen"/>fectual, as any yet have been before it. However, we are heartily glad to hear that there is such a continued kindness shown to the <hi>French Protestants,</hi> even whilst there is such a quite contrary usage to our own, which makes us doubt in the Country, that it is more their being <hi>English Men,</hi> than Fanaticks, that makes them to be thus run upon, and that if our Dissenters would but turn <hi>French,</hi> they might have their Liberty too, as well as they.</p>
+            <p>We cry out upon the <hi>Emperor,</hi> and <hi>French</hi> King, because they suffer them<g ref="char:EOLhyphen"/>selves to be led by their Jesuitical Councils to persecute their Protestant Subjects: But if it be condemnable in them who are Popish Princes, and as such under a greater tye to be severe to their Protestants to promote and indulge their own Profession; for Gods sake my Friend who shall find out a justification for Pro<g ref="char:EOLhyphen"/>testant Princes, when they practise the same on their Protestant People, which they condemn in Papists?</p>
+            <p>Besides, you find none of the Popish Governments fall upon their Catho<g ref="char:EOLhyphen"/>lick Subjects, and persecute them, because they differ in opinion or dissent from one another tho all read-men know, that the differences between the <hi>Jesuits</hi> and the <hi>Jansenists,</hi> the <hi>Dominicans,</hi> and the <hi>Franciscans</hi> are greater both in Doctrine and Principles, and managed with greater heats, than any among the Pro<g ref="char:EOLhyphen"/>testants. No they thank you, tho they worry you, yet they are not so much worse than Wolves, as to worry, devour, and destroy one another too; that's a strain of folly and madness, beyond any that the Church of <hi>Rome</hi> ever arrived at, and a Barbarism fit only to be acted by such Protestants, whose practises in all things else as well as this, shews them worse than Papists. For the Papists could never destroy the Protestant Church so to rights, as these Vermine do; for these like Wolves in sheeps cloathing lying among us, and being reckoned of us, have greater advantages, and opportunities to ruine us, than the publick professed Papists have; and therefore are as much worse than they as a <hi>Renega<g ref="char:EOLhyphen"/>do</hi> is worse than a Turk.</p>
+            <p>Wherefore, if the Government would please, now their hand is in, if it were but for the <hi>Betts</hi> sake, to prove this kind of Protestants a little further, who are the forwardest and fiercest in this Persecution-work by declaring for Popery. If the whole pack of them did not leave the Protestant Profession, and fall in full cry with such a Declaration, I would be content to lose my life on the wager; for they are such branded Beasts, and of such a dapple kind, that they can make as good a black as white, and as wicked Papists as they are Protestants. But it is high time to tell you that I am.</p>
+            <closer>
+               <signed>Your Humble Servant <hi>Christmas Eve.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
